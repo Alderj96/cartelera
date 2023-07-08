@@ -1,6 +1,6 @@
 import 'package:cinemapedia/domain/entities/actor.dart';
 
-import '../models/creadits_response.dart';
+import '../models/credits_response.dart';
 
 class ActorMapper {
   ActorMapper._();
